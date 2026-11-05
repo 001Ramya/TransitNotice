@@ -1,0 +1,1 @@
+"""TransitNotice FastAPI application."""

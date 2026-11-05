@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/uitext.ts","./src/components/noticedialog.tsx","./src/components/shell.tsx","./src/pages/alerts.tsx","./src/pages/dashboard.tsx","./src/pages/history.tsx","./src/pages/notices.tsx","./src/pages/settings.tsx"],"version":"5.7.3"}
